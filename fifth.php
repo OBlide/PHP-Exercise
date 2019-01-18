@@ -1,6 +1,6 @@
 <?php include "menu.php"; ?>
 
-<h1>Post example</h1>
+<h1>Calculator</h1>
 
 <form class="" action="fifth.php" method="post">
     <label for="">Write two numbers</label><br>
