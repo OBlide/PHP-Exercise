@@ -15,5 +15,7 @@
         <li> <a href="first.php">Basic</a> </li>
         <li> <a href="second.php">Array</a> </li>
         <li> <a href="third.php">Forms</a> </li>
+        <li> <a href="fourth.php">Forms</a> </li>
+        <li> <a href="fifth.php">Forms</a> </li>
     </ul>
 
